@@ -1,4 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages - ViteJS
+# Simple workflow for deploying static content to GitHub Pages - from ViteJS
 name: Deploy static content to Pages
 
 on:
